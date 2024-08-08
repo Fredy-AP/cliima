@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cliima/static/css/main.04cac988.css",
+    "main.js": "/cliima/static/js/main.d97b9f89.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/cliima/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/cliima/index.html",
+    "main.04cac988.css.map": "/cliima/static/css/main.04cac988.css.map",
+    "main.d97b9f89.js.map": "/cliima/static/js/main.d97b9f89.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/cliima/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04cac988.css",
+    "static/js/main.d97b9f89.js"
+  ]
+}
